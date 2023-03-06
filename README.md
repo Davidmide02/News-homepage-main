@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Davidmide02/News-homepage-main.git)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://genuine-muffin-197fb4.netlify.app/)
 
 ## My process
 - Thorough analysis of the design
