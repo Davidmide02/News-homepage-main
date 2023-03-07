@@ -65,6 +65,7 @@ nav ul a {
     text-decoration: none;
     margin-right: 1rem;
     color: var(--very-dark-blue);
+    padding: 0.2rem;
 }
 
 nav ul a:hover {
