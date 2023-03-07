@@ -67,6 +67,6 @@ The pertinent knowledge i gained during this project is don not just jump to des
 ## Author
 
 - Website - [Add your name here](https://www.github.com/Davidmide02)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Davidmide02)
-- Twitter - [@yourusername](https://www.twitter.com/Davidmide02)
+- Frontend Mentor - [@Davidmide02](https://www.frontendmentor.io/profile/Davidmide02)
+- Twitter - [@Davidmide02](https://www.twitter.com/Davidmide02)
 
